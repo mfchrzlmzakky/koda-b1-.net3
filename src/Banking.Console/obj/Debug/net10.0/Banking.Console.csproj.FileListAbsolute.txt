@@ -1,0 +1,14 @@
+D:\Data\KODA\Week 4\DOTNET3\src\Banking.Console\bin\Debug\net10.0\Banking.Console.exe
+D:\Data\KODA\Week 4\DOTNET3\src\Banking.Console\bin\Debug\net10.0\Banking.Console.deps.json
+D:\Data\KODA\Week 4\DOTNET3\src\Banking.Console\bin\Debug\net10.0\Banking.Console.runtimeconfig.json
+D:\Data\KODA\Week 4\DOTNET3\src\Banking.Console\bin\Debug\net10.0\Banking.Console.dll
+D:\Data\KODA\Week 4\DOTNET3\src\Banking.Console\bin\Debug\net10.0\Banking.Console.pdb
+D:\Data\KODA\Week 4\DOTNET3\src\Banking.Console\obj\Debug\net10.0\Banking.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\KODA\Week 4\DOTNET3\src\Banking.Console\obj\Debug\net10.0\Banking.Console.AssemblyInfoInputs.cache
+D:\Data\KODA\Week 4\DOTNET3\src\Banking.Console\obj\Debug\net10.0\Banking.Console.AssemblyInfo.cs
+D:\Data\KODA\Week 4\DOTNET3\src\Banking.Console\obj\Debug\net10.0\Banking.Console.csproj.CoreCompileInputs.cache
+D:\Data\KODA\Week 4\DOTNET3\src\Banking.Console\obj\Debug\net10.0\Banking.Console.dll
+D:\Data\KODA\Week 4\DOTNET3\src\Banking.Console\obj\Debug\net10.0\refint\Banking.Console.dll
+D:\Data\KODA\Week 4\DOTNET3\src\Banking.Console\obj\Debug\net10.0\Banking.Console.pdb
+D:\Data\KODA\Week 4\DOTNET3\src\Banking.Console\obj\Debug\net10.0\Banking.Console.genruntimeconfig.cache
+D:\Data\KODA\Week 4\DOTNET3\src\Banking.Console\obj\Debug\net10.0\ref\Banking.Console.dll
