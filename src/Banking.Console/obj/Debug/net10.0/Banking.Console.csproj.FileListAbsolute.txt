@@ -12,3 +12,4 @@ D:\Data\KODA\Week 4\DOTNET3\src\Banking.Console\obj\Debug\net10.0\refint\Banking
 D:\Data\KODA\Week 4\DOTNET3\src\Banking.Console\obj\Debug\net10.0\Banking.Console.pdb
 D:\Data\KODA\Week 4\DOTNET3\src\Banking.Console\obj\Debug\net10.0\Banking.Console.genruntimeconfig.cache
 D:\Data\KODA\Week 4\DOTNET3\src\Banking.Console\obj\Debug\net10.0\ref\Banking.Console.dll
+D:\Data\KODA\Week 4\DOTNET3\src\Banking.Console\obj\Debug\net10.0\Banking.Console.sourcelink.json
